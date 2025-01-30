@@ -1,0 +1,5 @@
+{
+    "medellin": { "temperature": "22°C", "condition": "Soleado" },
+    "bogota": { "temperature": "15°C", "condition": "Nublado" },
+    "cali": { "temperature": "30°C", "condition": "Soleado" }
+}
