@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5216e813-d239-496b-8d17-47c1aa12f4f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/weather.proto" beforeDir="false" afterPath="$PROJECT_DIR$/server/weather.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MrMoss12-cmd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MrMoss12-cmd&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MrMoss12-cmd/grpc_weather.git",
-    "accountId": "ffd47708-b71a-4bc3-a845-cf1e55b64bb8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MrMoss12-cmd/grpc_weather.git&quot;,
+    &quot;accountId&quot;: &quot;ffd47708-b71a-4bc3-a845-cf1e55b64bb8&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2sKMcBpfoC9fZ6zBm81LVHp0bsQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "server",
+    "git-widget-placeholder": "client",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
